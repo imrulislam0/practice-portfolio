@@ -140,6 +140,50 @@ h5{
     
     
 }
+/* book styles */
+
+.book-container{
+    text-align: center;
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 150px;
+    max-width: 1150px;
+    background: #EEEEEE;
+    padding-bottom: 50px;
+}
+    
+.books-details{
+    display: flex;
+    gap: 70px;
+    justify-content: center;
+}
+    
+.books-size{
+    background-repeat: no-repeat;
+    width: 250px;
+    height: 350px;
+}
+    
+.bestseller-title{
+    font-size: 45px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    
+}
+
+.book-1{
+    font-size: 30px;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+
+    
+    
+
+
+   
+
 
     
     
